@@ -167,8 +167,7 @@ useEffect(() => {
 
 **Takeaways**
 
--The useNavigate() hook allows us to programmatically redirect the user.
-
+- The useNavigate() hook allows us to programmatically redirect the user.
 - useNavigate() will return us the navigate function where we can use it whenever we want to redirect the user.
 
 ## Grouping Routes
@@ -199,7 +198,7 @@ One important note here: we can not put a slash in front of our path, because a 
 
 **Takeaways**
 
--We can put additional <Route> components within another to group multiple routes together.
+- We can put additional <Route> components within another to group multiple routes together.
 
 ## Dynamic routes
 
